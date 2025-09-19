@@ -23,7 +23,7 @@ Optimize your WooCommerce store for maximum performance and speed with Woo Perfo
 
 ## Pro Version
 
-Upgrade to [Woo Performance Optimizer Pro](https://yourwebsite.com/woo-performance-optimizer-pro/) for advanced features like:
+Upgrade to [Woo Performance Optimizer Pro](https://jeffmuturi.netlify.app/woo-performance-optimizer-pro/) for advanced features like:
 
 - Daily optimization scheduling
 - Image optimization
@@ -35,7 +35,7 @@ Upgrade to [Woo Performance Optimizer Pro](https://yourwebsite.com/woo-performan
 
 For support with the Lite version, please use the [WordPress support forums](https://wordpress.org/support/plugin/woo-performance-optimizer/).
 
-For Pro version support, contact us at [support@yourwebsite.com](mailto:support@yourwebsite.com).
+For Pro version support, contact us at [support@yourwebsite.com](mailto:jeffmuturi45@gmail.com).
 
 ## Contributing
 
