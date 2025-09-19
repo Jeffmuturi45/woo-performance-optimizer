@@ -1,0 +1,80 @@
+/* Woo Performance Optimizer Admin Styles */
+.wpo-dashboard {
+    margin-top: 20px;
+}
+
+.wpo-stats {
+    display: flex;
+    gap: 20px;
+    margin-bottom: 30px;
+}
+
+.wpo-stat-card {
+    background: #fff;
+    border: 1px solid #ccd0d4;
+    border-radius: 4px;
+    padding: 20px;
+    flex: 1;
+    text-align: center;
+}
+
+.wpo-stat-card h3 {
+    margin: 0 0 10px;
+    font-size: 14px;
+    font-weight: 400;
+    color: #646970;
+}
+
+.wpo-stat-card .stat-value {
+    margin: 0;
+    font-size: 24px;
+    font-weight: 600;
+    color: #2271b1;
+}
+
+.wpo-settings {
+    background: #fff;
+    border: 1px solid #ccd0d4;
+    border-radius: 4px;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+.wpo-actions {
+    background: #fff;
+    border: 1px solid #ccd0d4;
+    border-radius: 4px;
+    padding: 20px;
+}
+
+.wpo-actions h2 {
+    margin-top: 0;
+}
+
+.wpo-actions p {
+    margin-bottom: 15px;
+}
+
+.wpo-actions .description {
+    margin-left: 10px;
+    color: #646970;
+}
+
+.wpo-pro-features {
+    margin-top: 30px;
+    background: #fff;
+    border: 1px solid #ccd0d4;
+    border-radius: 4px;
+    padding: 20px;
+}
+
+.wpo-pro-features h3 {
+    margin-top: 0;
+    text-align: center;
+}
+
+@media (max-width: 768px) {
+    .wpo-stats {
+        flex-direction: column;
+    }
+}
